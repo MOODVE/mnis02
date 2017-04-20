@@ -208,6 +208,7 @@ section.success {
   height: 250px;
   overflow: hidden;
   margin: 0 auto;
+  border-radius: 50%;
 }
 .profile-image img{
   width:100%;
