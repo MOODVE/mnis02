@@ -207,6 +207,7 @@ section.success {
   width: 250px;
   height: 250px;
   overflow: hidden;
+  margin: 0 auto;
 }
 .profile-image img{
   width:100%;
