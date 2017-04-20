@@ -208,6 +208,9 @@ section.success {
   height: 250px;
   overflow: hidden;
 }
+.profile-image img{
+  width:100%;
+}
 #portfolio .portfolio-item .portfolio-link {
   display: block;
   position: relative;
